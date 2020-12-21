@@ -1,0 +1,19 @@
+{
+  "name": "plotly.js-boilerplate-fullstack",
+  "version": "1.0.0",
+  "description": "Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelobattaglia/plotly.js-boilerplate-fullstack.git"
+  },
+  "author": "Angelo Battaglia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angelobattaglia/plotly.js-boilerplate-fullstack/issues"
+  },
+  "homepage": "https://github.com/angelobattaglia/plotly.js-boilerplate-fullstack#readme"
+}
