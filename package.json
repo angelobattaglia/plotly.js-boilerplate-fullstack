@@ -1,19 +1,28 @@
 {
   "name": "plotly.js-boilerplate-fullstack",
   "version": "1.0.0",
-  "description": "Boilerplate",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npm run build"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/angelobattaglia/plotly.js-boilerplate-fullstack.git"
   },
-  "author": "Angelo Battaglia",
-  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/angelobattaglia/plotly.js-boilerplate-fullstack/issues"
   },
-  "homepage": "https://github.com/angelobattaglia/plotly.js-boilerplate-fullstack#readme"
+  "homepage": "https://github.com/angelobattaglia/plotly.js-boilerplate-fullstack#readme",
+  "dependencies": {
+    "plotly": "^1.0.6"
+  },
+  "devDependencies": {
+    "webpack": "^5.11.0",
+    "webpack-cli": "^4.2.0"
+  }
 }
