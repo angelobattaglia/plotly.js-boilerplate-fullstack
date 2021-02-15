@@ -1,6 +1,7 @@
 # Just a boilerplate
 
     git clone
+    cd plotly.js-boilerplate-fullstack
     npm install
     npm run build
-    npm start
+    go run server.go
