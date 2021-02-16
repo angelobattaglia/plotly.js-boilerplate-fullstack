@@ -1,2 +1,4 @@
 node_modules/
 dist/
+*.ini
+go-web-programming.pdf
